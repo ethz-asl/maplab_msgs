@@ -3,11 +3,8 @@
   <name>maplab_msgs</name>
   <version>0.0.0</version>
   <description>Message definitions for Maplab ROS interface.</description>
-
-  <author email="marius.fehr@mavt.ethz.ch">Marius Fehr</author>
-  <maintainer email="marius.fehr@mavt.ethz.ch">Marius Fehr</maintainer>
-
-  <license>BSD</license>
+  <maintainer email="maplab-dev@mavt.ethz.ch">maplab-developers</maintainer>
+  <license>Apache 2.0</license>
 
   <buildtool_depend>catkin</buildtool_depend>
   <buildtool_depend>catkin_simple</buildtool_depend>
