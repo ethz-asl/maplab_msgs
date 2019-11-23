@@ -1,3 +1,5 @@
+# Name of Robot
+std_msgs/String robot_name
 # 3D position calculated in world frame
 geometry_msgs/PointStamped point
 # The detection image from darknet
