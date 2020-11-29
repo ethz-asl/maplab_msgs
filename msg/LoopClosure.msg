@@ -15,6 +15,3 @@ time timestamp_a
 
 # Timestamp of source b
 time timestamp_b
-
-# Quality of the LC
-float32 quality
