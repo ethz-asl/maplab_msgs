@@ -1,5 +1,5 @@
 # Header
-int64 seq_id
+std_msgs/Header header
 
 # Coordinate system of the graph
 geometry_msgs/Point[] coords
