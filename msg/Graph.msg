@@ -5,7 +5,10 @@ std_msgs/Header header
 geometry_msgs/Point[] coords
 
 # Submap indices
-uint32[] submap_indices 
+uint32[] submap_indices
 
 # Weighted adjacency matrix
 float64[] adjacency_matrix
+
+# Reduced indices
+uint32[] reduced_indices
