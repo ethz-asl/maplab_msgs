@@ -2,4 +2,4 @@
 string robot_name
 
 # Submap IDs.
-int64[] id
+int64[] submap_ids
