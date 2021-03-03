@@ -1,10 +1,5 @@
 # Run a more detailed optimization on the given submap and return the result.
-
-# Name of robot. Only used for debugging and logging purposes.
-string robot_name
-
-# Submap ID of the node.
-int64 id
+VerificationCheckRequest verify_request
 ---
 # Status of the request.
-VerificationStatus status_response
+VerificationCheckResponse status_response
