@@ -5,4 +5,4 @@ std_msgs/Header header
 string robot_name
 
 # Submap IDs.
-int64[] submap_ids
+uint32[] submap_ids
