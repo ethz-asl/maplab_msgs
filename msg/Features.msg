@@ -1,10 +1,10 @@
 Header header
-int32[] keypointMeasurementsX
-int32[] keypointMeasurementsY
-int32 numKeypointMeasurements
-float32[] keypointMeasurementUncertainties
-float32[] keypointOrientations
-float32[] keypointScores
-float32[] keypointScales
+float64[] keypointMeasurementsX
+float64[] keypointMeasurementsY
+uint32 numKeypointMeasurements
+float64[] keypointMeasurementUncertainties
+float64[] keypointOrientations
+float64[] keypointScores
+float64[] keypointScales
 std_msgs/UInt8MultiArray descriptors
 int32[] trackIds
