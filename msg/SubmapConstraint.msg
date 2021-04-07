@@ -1,6 +1,9 @@
 # Header
 std_msgs/Header header
 
+# Name of the robot
+string robot_name
+
 # Submap IDs
 int64[] id_from
 int64[] id_to
