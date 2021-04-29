@@ -12,6 +12,7 @@ float32 radius_m
 # Options:
 uint32 POINT_CLOUD_TYPE_XYZI=1
 uint32 POINT_CLOUD_TYPE_XYZL=2
+uint32 POINT_CLOUD_TYPE_XYZIRT=3
 
 uint32 point_cloud_type
 ---
