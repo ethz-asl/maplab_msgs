@@ -5,4 +5,4 @@ std_msgs/Header header
 int64 n_neighbors
 
 # Confidence threshold for returning potential candidates
-float32 threshold
+float32 confidence_threshold
