@@ -24,6 +24,7 @@ set(msg_files
 rosidl_generate_interfaces(${PROJECT_NAME}
   ${msg_files}
   DEPENDENCIES geometry_msgs std_msgs sensor_msgs
+  ADD_LINTER_TESTS
 )
 
 if(BUILD_TESTING)
