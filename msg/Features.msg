@@ -6,5 +6,9 @@ float64[] keypointMeasurementUncertainties
 float64[] keypointOrientations
 float64[] keypointScores
 float64[] keypointScales
+float64[] keypoint3DX
+float64[] keypoint3DY
+float64[] keypoint3DZ
+int32[] keypointTimeOffset
 std_msgs/UInt8MultiArray descriptors
 int32[] trackIds
